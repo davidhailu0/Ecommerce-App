@@ -1,0 +1,17 @@
+.form-container input,
+.form-container textarea {
+    box-sizing: border-box;
+    width: 100%;
+    display:block;
+    padding: 15px;
+    margin-bottom: 17px;
+    border-radius: 15px;
+    outline: none;
+    border: 1px solid #ccc;
+}
+.checkoutSection{
+    background-color: rgba(240,250,240);
+}
+::placeholder{
+color:#bbb;
+}
